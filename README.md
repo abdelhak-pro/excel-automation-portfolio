@@ -15,7 +15,7 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 - pandas et openpyxl (à venir)
 
 ## Feuille de route
-- [x] Lire et écrire des fichiers Excel avec pandas
+- [ ] Lire et écrire des fichiers Excel avec pandas
 - [ ] Nettoyer les données (doublons, cellules vides, espaces)
 - [ ] Fusionner plusieurs fichiers Excel en un seul
 - [ ] Générer un rapport de ventes

@@ -18,7 +18,7 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 
 ## Feuille de route
 - [x] Lire un fichier Excel avec pandas
-- [ ] Filtrer et trier les données
+- [x] Filtrer et trier les données
 - [ ] Nettoyer les données (doublons, cellules vides, espaces)
 - [ ] Écrire un fichier Excel
 - [ ] Fusionner plusieurs fichiers Excel en un seul

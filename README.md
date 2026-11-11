@@ -9,14 +9,16 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 |---------|-------------|
 | `day1.py` | Somme d'une liste avec une boucle `for` |
 | `day2.py` | Somme de prix, puis somme des ventes supérieures à 100 avec `if` |
-
+| `day3.py` | Lecture d'un fichier Excel avec pandas : somme et valeurs uniques |
 ## Outils
 - Python 3.11
 - pandas et openpyxl (à venir)
 
 ## Feuille de route
-- [ ] Lire et écrire des fichiers Excel avec pandas
+- [x] Lire un fichier Excel avec pandas
+- [ ] Filtrer et trier les données
 - [ ] Nettoyer les données (doublons, cellules vides, espaces)
+- [ ] Écrire un fichier Excel
 - [ ] Fusionner plusieurs fichiers Excel en un seul
 - [ ] Générer un rapport de ventes
 

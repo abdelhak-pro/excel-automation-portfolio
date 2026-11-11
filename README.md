@@ -10,6 +10,7 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 | `day1.py` | Somme d'une liste avec une boucle `for` |
 | `day2.py` | Somme de prix, puis somme des ventes supérieures à 100 avec `if` |
 | `day3.py` | Lecture d'un fichier Excel avec pandas : somme et valeurs uniques |
+| `day4.py` | Révision : lecture Excel, somme et produits uniques |
 ## Outils
 - Python 3.11
 - pandas (utilisé), openpyxl (à venir)

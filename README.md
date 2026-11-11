@@ -12,7 +12,7 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 | `day3.py` | Lecture d'un fichier Excel avec pandas : somme et valeurs uniques |
 ## Outils
 - Python 3.11
-- pandas et openpyxl (à venir)
+- pandas (utilisé), openpyxl (à venir)
 
 ## Feuille de route
 - [x] Lire un fichier Excel avec pandas

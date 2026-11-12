@@ -21,7 +21,7 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 - [x] Lire un fichier Excel avec pandas
 - [x] Filtrer et trier les données
 - [x] Nettoyer les données (doublons, cellules vides, espaces)
-- [ ] Écrire un fichier Excel
+- [x] Écrire un fichier Excel
 - [ ] Fusionner plusieurs fichiers Excel en un seul
 - [ ] Générer un rapport de ventes
 

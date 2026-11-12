@@ -12,6 +12,7 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 | `day3.py` | Lecture d'un fichier Excel avec pandas : somme et valeurs uniques |
 | `day4.py` | Révision : lecture Excel, somme et produits uniques |
 | `day5.py` | Filtrer (montant > 100) et trier les données avec pandas |
+| `day6.py` | Nettoyer un fichier Excel : espaces, doublons, cellules vides |
 ## Outils
 - Python 3.11
 - pandas (utilisé), openpyxl (à venir)
@@ -19,7 +20,7 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 ## Feuille de route
 - [x] Lire un fichier Excel avec pandas
 - [x] Filtrer et trier les données
-- [ ] Nettoyer les données (doublons, cellules vides, espaces)
+- [x] Nettoyer les données (doublons, cellules vides, espaces)
 - [ ] Écrire un fichier Excel
 - [ ] Fusionner plusieurs fichiers Excel en un seul
 - [ ] Générer un rapport de ventes

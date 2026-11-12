@@ -1,0 +1,10 @@
+import pandas as pd
+df = pd.read_excel("messy_sales.xlsx")
+print(df)
+print(df.shape)
+df["product"] = df["product"].str.title()
+df = df.drop_duplicates()
+df = df.dropna()
+print(df)
+print(df.shape)
+df.to_excel("clean_sales.xlsx", index=False)

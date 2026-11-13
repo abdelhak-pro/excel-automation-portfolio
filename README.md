@@ -18,6 +18,7 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 | `day9.py` | Rapport du total des ventes par produit |
 | `day10.py` | Rapport du total des ventes par ville |
 | `day11.py` | Mettre en forme un rapport Excel avec openpyxl : en-têtes en couleur et colonnes ajustées |
+| `day12.py` | Projet final : fusionner, nettoyer et générer un rapport Excel formaté en 2 feuilles |
 
 ## Avant / Après
 Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
@@ -25,9 +26,12 @@ Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
 ![Avant](before.png)
 ![Après](after.png)
 
+## Rapport final
+![Rapport](rapport_final.png)
+
 ## Outils
 - Python 3.11
-- pandas (utilisé), openpyxl (utilisé)
+- pandas et openpyxl (utilisés)
 
 ## Feuille de route
 - [x] Lire un fichier Excel avec pandas

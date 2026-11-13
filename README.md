@@ -13,6 +13,7 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 | `day4.py` | Révision : lecture Excel, somme et produits uniques |
 | `day5.py` | Filtrer (montant > 100) et trier les données avec pandas |
 | `day6.py` | Nettoyer un fichier Excel : espaces, doublons, cellules vides |
+| `day7.py` | Fusionner plusieurs fichiers Excel en un seul avec pandas |
 
 ## Avant / Après
 Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
@@ -32,7 +33,7 @@ Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
 - [x] Filtrer et trier les données
 - [x] Nettoyer les données (doublons, cellules vides, espaces)
 - [x] Écrire un fichier Excel
-- [ ] Fusionner plusieurs fichiers Excel en un seul
+- [x] Fusionner plusieurs fichiers Excel en un seul
 - [ ] Générer un rapport de ventes
 
 ## Contact

@@ -24,9 +24,6 @@ Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
 ## Outils
 - Python 3.11
 - pandas (utilisé), openpyxl (à venir)
-## Outils
-- Python 3.11
-- pandas (utilisé), openpyxl (à venir)
 
 ## Feuille de route
 - [x] Lire un fichier Excel avec pandas

@@ -25,7 +25,7 @@ Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
 
 ## Outils
 - Python 3.11
-- pandas (utilisé), openpyxl (à venir)
+- pandas (utilisé), openpyxl (utilisé)
 
 ## Feuille de route
 - [x] Lire un fichier Excel avec pandas
@@ -33,7 +33,7 @@ Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
 - [x] Nettoyer les données (doublons, cellules vides, espaces)
 - [x] Écrire un fichier Excel
 - [x] Fusionner plusieurs fichiers Excel en un seul
-- [ ] Générer un rapport de ventes
+- [x] Générer un rapport de ventes
 
 ## Contact
 Disponible pour de petites missions d'automatisation Excel. Contactez-moi via GitHub.

@@ -14,6 +14,7 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 | `day5.py` | Filtrer (montant > 100) et trier les données avec pandas |
 | `day6.py` | Nettoyer un fichier Excel : espaces, doublons, cellules vides |
 | `day7.py` | Fusionner plusieurs fichiers Excel en un seul avec pandas |
+| `day8.py` | Fusionner et nettoyer plusieurs fichiers Excel en un seul |
 
 ## Avant / Après
 Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :

@@ -16,6 +16,7 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 | `day7.py` | Fusionner plusieurs fichiers Excel en un seul avec pandas |
 | `day8.py` | Fusionner et nettoyer plusieurs fichiers Excel en un seul |
 | `day9.py` | Rapport du total des ventes par produit |
+| `day10.py` | Rapport du total des ventes par ville |
 
 ## Avant / Après
 Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :

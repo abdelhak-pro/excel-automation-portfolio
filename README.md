@@ -30,7 +30,7 @@ Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
 ![Après](after.png)
 
 ## Rapport final
-![Uploading rapport_final.PNG…]()
+![Rapport final](rapport_final.PNG)
 
 
 ## Outils

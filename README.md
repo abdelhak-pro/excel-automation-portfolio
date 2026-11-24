@@ -1,10 +1,27 @@
 # Portfolio d'automatisation Excel
 Projets Python pour automatiser des fichiers Excel : nettoyage, fusion et rapports.
-## À propos
-J'apprends Python pour automatiser les tâches Excel répétitives des petites entreprises.
-Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 
-Ce dépôt montre comment automatiser la préparation d'un rapport Excel : fusion de fichiers, nettoyage des données (espaces, casse, doublons, valeurs manquantes) et génération d'un rapport formaté.
+## À propos
+J'apprends Python pour automatiser les tâches Excel répétitives des petites entreprises. Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
+
+Ce dépôt montre comment préparer automatiquement un rapport Excel : fusion de fichiers, nettoyage des données (espaces, casse, doublons, valeurs manquantes) et génération d'un rapport formaté.
+
+## Projet phare : `day13.py`
+**Entrée :** `test_final.xlsx` (fichier de ventes désordonné)
+**Sortie :** `rapport_test.xlsx` avec 3 feuilles : `Par product`, `Par ville`, `Données nettoyées`
+![Rapport généré](rapport_test.png)
+
+### Utilisation
+1. Installer les bibliothèques : `pip install pandas openpyxl`
+2. Placer `test_final.xlsx` dans le même dossier que `day13.py`
+3. Lancer : `python day13.py`
+
+### Règles de nettoyage appliquées
+- Espaces en trop supprimés, première lettre en majuscule (produit et ville)
+- Doublons supprimés après uniformisation
+- Produit manquant : remplacé par `Vide` (le montant est conservé)
+- Montant manquant : remplacé par `0`
+- Contrôle : le total des deux rapports est identique (1 370)
 
 ## Contenu
 | Fichier | Description |
@@ -41,7 +58,7 @@ Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
 
 ## Outils
 - Python 3.11
-- pandas et openpyxl (utilisés)
+- pandas et openpyxl
 
 ## Feuille de route
 - [x] Lire un fichier Excel avec pandas

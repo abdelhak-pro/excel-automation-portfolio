@@ -4,6 +4,8 @@ Projets Python pour automatiser des fichiers Excel : nettoyage, fusion et rappor
 J'apprends Python pour automatiser les tâches Excel répétitives des petites entreprises.
 Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 
+Ce dépôt montre comment automatiser des rapports Excel : nettoyage des données, détection des anomalies et génération de rapports. Dans un cas réel, cela permet de réduire le temps de préparation d'un rapport mensuel de plusieurs heures à quelques minutes.
+
 ## Contenu
 | Fichier | Description |
 |---------|-------------|

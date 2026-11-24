@@ -1,4 +1,4 @@
-# Portfolio d'automatisation Excel
+<img width="361" height="508" alt="rapport_final" src="https://github.com/user-attachments/assets/133516ea-ff79-4d21-bbfb-8829651834d4" /><img width="361" height="508" alt="rapport_final" src="https://github.com/user-attachments/assets/0a2676ee-7c77-4805-a8bc-5791d014095d" /><img width="361" height="508" alt="rapport_final" src="https://github.com/user-attachments/assets/a0da2c9c-1185-4e32-9a57-53f2329e7dfe" /><img width="361" height="508" alt="rapport_final" src="https://github.com/user-attachments/assets/cbf8104b-d9b9-4d66-a4d6-8dbb740f8dee" /><img width="361" height="508" alt="rapport_final" src="https://github.com/user-attachments/assets/a0957ce6-7ada-4940-ab77-5eaab24d8077" /><img width="361" height="508" alt="rapport_final" src="https://github.com/user-attachments/assets/84cd4ffc-9698-41a6-a4fa-ad8bbc4f1c55" /><img width="361" height="508" alt="rapport_final" src="https://github.com/user-attachments/assets/4e806eb8-fa9f-412d-94db-5b012aeab007" /><img width="361" height="508" alt="rapport_final" src="https://github.com/user-attachments/assets/a0f16c96-646c-4f76-80e4-556e6fea3c20" /><img width="361" height="508" alt="rapport_final" src="https://github.com/user-attachments/assets/8ea1395f-fe3c-4c2d-ad2f-2dab9d867001" /># Portfolio d'automatisation Excel
 Projets Python pour automatiser des fichiers Excel : nettoyage, fusion et rapports.
 ## À propos
 J'apprends Python pour automatiser les tâches Excel répétitives des petites entreprises.
@@ -30,7 +30,7 @@ Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
 ![Après](after.png)
 
 ## Rapport final
-![Rapport](rapport_final.png)
+<img width="361" height="508" alt="rapport_final" src="https://github.com/user-attachments/assets/eeb89384-abf2-4af3-802f-541660d46a96" />
 
 ## Outils
 - Python 3.11

@@ -4,7 +4,7 @@ Projets Python pour automatiser des fichiers Excel : nettoyage, fusion et rappor
 J'apprends Python pour automatiser les tâches Excel répétitives des petites entreprises.
 Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 
-Ce dépôt montre comment automatiser des rapports Excel : nettoyage des données, détection des anomalies et génération de rapports. Dans un cas réel, cela permet de réduire le temps de préparation d'un rapport mensuel de plusieurs heures à quelques minutes.
+Ce dépôt montre comment automatiser la préparation d'un rapport Excel : fusion de fichiers, nettoyage des données (espaces, casse, doublons, valeurs manquantes) et génération d'un rapport formaté.
 
 ## Contenu
 | Fichier | Description |
@@ -22,6 +22,12 @@ Ce dépôt montre comment automatiser des rapports Excel : nettoyage des donnée
 | `day11.py` | Mettre en forme un rapport Excel avec openpyxl : en-têtes en couleur et colonnes ajustées |
 | `day12.py` | Projet final : fusionner, nettoyer et générer un rapport Excel formaté en 2 feuilles |
 | `day13.py` | Rapport Excel formaté : ventes par produit et par ville |
+
+## Utilisation
+1. Installer les bibliothèques : `pip install pandas openpyxl`
+2. Placer `test_final.xlsx` dans le même dossier que `day13.py`
+3. Lancer : `python day13.py`
+4. Le rapport est généré dans `rapport_test.xlsx` (feuilles : Par product, Par ville, Données nettoyées)
 
 ## Avant / Après
 Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :

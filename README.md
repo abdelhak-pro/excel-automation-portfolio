@@ -30,7 +30,8 @@ Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
 ![Après](after.png)
 
 ## Rapport final
-<img width="361" height="508" alt="rapport_final" src="https://github.com/user-attachments/assets/eeb89384-abf2-4af3-802f-541660d46a96" />
+![Uploading rapport_final.PNG…]()
+
 
 ## Outils
 - Python 3.11

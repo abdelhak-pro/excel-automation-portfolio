@@ -19,6 +19,7 @@ Ce dépôt suit ma progression : chaque exercice est testé et vérifié.
 | `day10.py` | Rapport du total des ventes par ville |
 | `day11.py` | Mettre en forme un rapport Excel avec openpyxl : en-têtes en couleur et colonnes ajustées |
 | `day12.py` | Projet final : fusionner, nettoyer et générer un rapport Excel formaté en 2 feuilles |
+| `day13.py` | Rapport Excel formaté : ventes par produit et par ville |
 
 ## Avant / Après
 Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
@@ -41,5 +42,8 @@ Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :
 - [x] Fusionner plusieurs fichiers Excel en un seul
 - [x] Générer un rapport de ventes
 
+## Exemple de message client
+Message type accompagnant un rapport Excel : signaler les lignes à vérifier (produit vide, montant manquant) et confirmer les totaux.
+
 ## Contact
-Disponible pour de petites missions d'automatisation Excel. Contactez-moi via GitHub.
+Disponible pour des petites missions d'automatisation Excel. Contactez-moi via GitHub.

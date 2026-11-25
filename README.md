@@ -9,7 +9,8 @@ Ce dépôt montre comment préparer automatiquement un rapport Excel : fusion de
 ## Projet phare : `day13.py`
 **Entrée :** `test_final.xlsx` (fichier de ventes désordonné)
 **Sortie :** `rapport_test.xlsx` avec 3 feuilles : `Par product`, `Par ville`, `Données nettoyées`
-![Rapport généré](rapport_test.png)
+
+![Rapport généré](rapport_test.PNG)
 
 ### Utilisation
 1. Installer les bibliothèques : `pip install pandas openpyxl`
@@ -39,12 +40,6 @@ Ce dépôt montre comment préparer automatiquement un rapport Excel : fusion de
 | `day11.py` | Mettre en forme un rapport Excel avec openpyxl : en-têtes en couleur et colonnes ajustées |
 | `day12.py` | Projet final : fusionner, nettoyer et générer un rapport Excel formaté en 2 feuilles |
 | `day13.py` | Rapport Excel formaté : ventes par produit et par ville |
-
-## Utilisation
-1. Installer les bibliothèques : `pip install pandas openpyxl`
-2. Placer `test_final.xlsx` dans le même dossier que `day13.py`
-3. Lancer : `python day13.py`
-4. Le rapport est généré dans `rapport_test.xlsx` (feuilles : Par product, Par ville, Données nettoyées)
 
 ## Avant / Après
 Fichier Excel désordonné, puis fichier nettoyé avec `day6.py` :

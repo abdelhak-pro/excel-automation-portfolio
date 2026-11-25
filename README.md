@@ -27,15 +27,15 @@ Ce dépôt montre comment préparer automatiquement un rapport Excel : fusion de
 ## Contenu
 | Fichier | Description |
 |---------|-------------|
-| `day1.py` | Somme d'une liste avec une boucle `for` |
-| `day2.py` | Somme de prix, puis somme des ventes supérieures à 100 avec `if` |
-| `day3.py` | Lecture d'un fichier Excel avec pandas : somme et valeurs uniques |
-| `day4.py` | Révision : lecture Excel, somme et produits uniques |
-| `day5.py` | Filtrer (montant > 100) et trier les données avec pandas |
-| `day6.py` | Nettoyer un fichier Excel : espaces, doublons, cellules vides |
-| `day7.py` | Fusionner plusieurs fichiers Excel en un seul avec pandas |
-| `day8.py` | Fusionner et nettoyer plusieurs fichiers Excel en un seul |
-| `day9.py` | Rapport du total des ventes par produit |
+| `day01.py` | Somme d'une liste avec une boucle `for` |
+| `day02.py` | Somme de prix, puis somme des ventes supérieures à 100 avec `if` |
+| `day03.py` | Lecture d'un fichier Excel avec pandas : somme et valeurs uniques |
+| `day04.py` | Révision : lecture Excel, somme et produits uniques |
+| `day05.py` | Filtrer (montant > 100) et trier les données avec pandas |
+| `day06.py` | Nettoyer un fichier Excel : espaces, doublons, cellules vides |
+| `day07.py` | Fusionner plusieurs fichiers Excel en un seul avec pandas |
+| `day08.py` | Fusionner et nettoyer plusieurs fichiers Excel en un seul |
+| `day09.py` | Rapport du total des ventes par produit |
 | `day10.py` | Rapport du total des ventes par ville |
 | `day11.py` | Mettre en forme un rapport Excel avec openpyxl : en-têtes en couleur et colonnes ajustées |
 | `day12.py` | Projet final : fusionner, nettoyer et générer un rapport Excel formaté en 2 feuilles |
